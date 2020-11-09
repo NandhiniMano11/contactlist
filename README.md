@@ -37,3 +37,4 @@ for start client run the below commments in terminal
 
 https://www.getpostman.com/collections/c15e57ba1c96a7a50012
 
+https://github.com/NandhiniMano11/contactlist/blob/main/KGiSL.postman_collection.json
